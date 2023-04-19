@@ -3,13 +3,13 @@
 # Disclaimer
 
 **INFORMATIONAL PURPOSES ONLY**:
-I created this script for personal use only. You cannot scrap the content of modules that you do not own 
+I created this script for personal use only. You cannot scrap the content of modules that you do not own
 
 **I am not responsible if you leak any modules !!**
 
 ## Information
 
-This script can be used to scrape the contents of HackTheBox Academy modules to keep a clear trace of your progressions of make a pretty CheatSheet :D, extract the contents into multiple markdown files and store them in a newly created folder. The script is written in Python3 and requires the following modules:
+This script can be used to scrape content from HackTheBox Academy modules to keep clear track of your progress or make a nice CheatSheet :D, extract the contents into multiple markdown files and store them in a newly created folder. The script is written in Python3 and requires the following modules:
 
 ## Dependencies
 
