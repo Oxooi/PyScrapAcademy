@@ -1,4 +1,4 @@
-# HTBAcademy_Scraping
+# PyScrapAcademy
 
 This script can be used to scrape a webpage, extract the contents into multiple markdown files and store them in a newly created folder. The script is written in Python3 and requires the following modules:
 
