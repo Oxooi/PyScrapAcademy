@@ -1,4 +1,4 @@
-# PyScrapAcademy
+# HTBAcademy_Scraping
 
 This script can be used to scrape a webpage, extract the contents into multiple markdown files and store them in a newly created folder. The script is written in Python3 and requires the following modules:
 
@@ -22,11 +22,11 @@ This web scraper relies on the following Python libraries:
 
 1. Clone the repository:
 
-> `git clone https://github.com/Oxooi/HTBAcademy_Scraping.git`
+> `git clone https://github.com/Oxooi/PyScrapAcademy.git`
 
 2. Change the directory to the project folder:
 
-> `cd HTBAcademy_Scraping`
+> `cd PyScrapAcademy`
 
 3. Install the required dependencies:
 
