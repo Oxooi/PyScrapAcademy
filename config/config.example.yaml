@@ -1,0 +1,4 @@
+url: https://academy.hackthebox.com/module/000/section/0000 # Replace this with the URL of the module. It's for demonstration
+file: links.txt
+cookies:
+  htb_academy_session: "" # Replace this with the content of your cookie named : 'htb_academy_session'
